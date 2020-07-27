@@ -65,8 +65,8 @@ void kubus()
     NOTE
     default posisi x,y,z yang ada di bawah
     merupakan posisi dari awal pertama kali di buka
-   */
- //   garis pembantu x
+   
+    garis pembantu x
     glBegin(GL_LINE_STRIP);
     glColor3f(0.0,0.5,0.5);
     glVertex3f(150,0,0);
@@ -85,6 +85,7 @@ void kubus()
     glVertex3f(0,0,150);
     glVertex3f(0,0,-150);
     glEnd();
+*/
 //------  Depan -------------------------------------------------------------------------------------
 
 	////jendela depan
